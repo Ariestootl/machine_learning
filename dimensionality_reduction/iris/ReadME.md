@@ -15,6 +15,7 @@ Techniques
 Principal Component Analysis (PCA)
 * Linear technique for reducing dimensions by finding the directions (principal components) that maximize variance in the data.
 * Features are transformed into a new coordinate system aligned with the directions of maximum variance.
+  
 Kernel Principal Component Analysis (KPCA)
 Extends PCA to capture non-linear relationships by applying kernel methods.
 Kernels used:
