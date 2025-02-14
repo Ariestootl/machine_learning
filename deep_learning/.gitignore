@@ -1,0 +1,11 @@
+#ignore the following files
+
+*.png
+*.pt
+*.pth
+*.jpg
+
+#ignore the following folders
+
+FSL/
+FSL_new/
