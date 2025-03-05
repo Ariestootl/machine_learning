@@ -1,0 +1,7 @@
+#ignore the following files
+
+*.png
+*.jpg
+*.pt
+*.pth
+*.tsv
