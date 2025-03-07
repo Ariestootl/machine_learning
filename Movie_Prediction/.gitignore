@@ -5,3 +5,5 @@
 *.pt
 *.pth
 *.tsv
+*.txt
+*.csv
