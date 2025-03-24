@@ -1,4 +1,4 @@
-# 🔥🔥 Dimensionality Reduction and Clustering on MNIST Dataset 🔥🔥
+# 🔥Dimensionality Reduction and Clustering on MNIST Dataset
 
 | 📜 **Summary** |
 |-----------------------------------|
