@@ -20,6 +20,20 @@ Agricultural resilience relies heavily on accurate, timely, and understandable c
 
 Instead of relying on isolated municipal models, this study trains a **Unified Machine Learning Model (Random Forest)** across multiple municipalities. This approach allows the algorithm to learn macro-level climatological patterns (e.g., monsoon cycles, humidity thresholds, and solar radiation impacts) while maintaining the ability to output highly accurate, localized municipal predictions.
 
+## 📊 Data Dictionary (NASA POWER Climatology Features)
+The predictive model utilizes the following meteorological and satellite-derived features to assess agricultural drought risk:
+
+| Feature Code | Parameter Name | Description |
+| :--- | :--- | :--- |
+| **RH2M** | Near-Surface Relative Humidity | The ratio of actual water vapor to the saturation vapor pressure at 2 meters above the surface. |
+| **T2M_MAX** | Maximum Temperature (2m) | The maximum dry bulb temperature at 2 meters above the surface. |
+| **T2M_MIN** | Minimum Temperature (2m) | The minimum dry bulb temperature at 2 meters above the surface. |
+| **ALLSKY_SFC_SW_DWN** | Downward Shortwave Radiation | The downwelling shortwave solar radiation at the surface under all sky conditions. |
+| **PRECTOTCORR** | Bias-Corrected Precipitation | The bias-corrected average precipitation (rainfall). |
+| **TS** | Earth Skin Temperature | The average land surface temperature. |
+| **GWETROOT** | Root Zone Soil Saturation | The amount of water retained in the root zone (Primary Target Variable). |
+| **EVLAND** | Land Surface Evaporation | The total evaporation from the land surface. |
+
 ## 🧠 Explainable AI (XAI): Moving Beyond the "Black Box"
 A major limitation of modern machine learning is the "black box" problem—algorithms can make highly accurate predictions, but they cannot explain *why* they made them. In agriculture and public policy, trust is paramount. Local Government Units (LGUs) and farmers cannot risk resources on a prediction they do not understand.
 
