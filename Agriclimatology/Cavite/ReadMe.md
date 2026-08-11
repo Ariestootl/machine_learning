@@ -1,5 +1,7 @@
 # Predictive Modeling of Agricultural Drought Risk using Machine Learning and Explainable AI (XAI)
 
+🚧 **WORK IN PROGRESS:** *This research project and its accompanying codebase are currently under active development. Methodologies, data pipelines, and predictive models are subject to ongoing refinement and validation.*
+
 **Category:** Mathematics and Computational Science  
 **Level:** Senior High School (STEM)
 
