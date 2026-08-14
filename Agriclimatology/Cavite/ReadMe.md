@@ -23,12 +23,14 @@ Instead of relying on isolated municipal models, this study trains a **Unified M
 
 ## 🗂️ Repository Structure
 ```text
-├── data/                  # Raw and processed NASA POWER datasets
-├── notebooks/             # Exploratory Data Analysis and model training
-├── src/                   # Python scripts for the Random Forest pipeline
-├── requirements.txt       # Project dependencies
-└── README.md              # Project documentation
-```
+├── Bacoor/                            # Municipal case study and local explainability (SHAP/ALE)
+├── Silang/                            # Municipal case study and local explainability (SHAP/ALE)
+├── archive/                           # Archived scripts and previous model iterations
+├── agriML_Cavite.ipynb                # Main Jupyter Notebook for model training and XAI
+├── cavite_weather_master.csv          # Raw NASA POWER climatological dataset
+├── cavite_weather_master_reshaped.csv # Processed dataset formatted for Random Forest
+├── nasa-power-parameters.csv          # Metadata and definitions for NASA POWER features
+└── ReadMe.md                          # Project documentation and methodology
 
 ## 🚀 Getting Started
 To replicate this environment and run the predictive models locally, ensure you have Python 3.8+ installed, then install the required dependencies:
