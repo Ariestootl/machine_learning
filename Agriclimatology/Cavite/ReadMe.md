@@ -2,9 +2,9 @@
 
 🚧 **WORK IN PROGRESS:** *This research project and its accompanying codebase are currently under active development. Methodologies, data pipelines, and predictive models are subject to ongoing refinement and validation.*
 
-**School:** Cavite Science Integrated School (RSHS)
-**Category:** Mathematics and Computational Science  
-**Level:** Senior High School (STEM)
+* **School:** Cavite Science Integrated School (RSHS)
+* **Category:** Mathematics and Computational Science  
+* **Level:** Senior High School (STEM)
 
 ## 👥 About the Researchers
 This research proposal is being developed by:
