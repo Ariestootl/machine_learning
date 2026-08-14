@@ -77,3 +77,10 @@ Using SHAP Waterfall plots, XAI breaks down individual predictions for specific 
 
 ## 🎯 Research Impact
 By combining a robust predictive algorithm with the transparency of Explainable AI, this research provides agricultural stakeholders with an early-warning system that is not only mathematically sound but physically interpretable, actionable, and trustworthy.
+
+## 📡 Data Source and Licensing
+The climatological data utilized in this repository is harvested from the **NASA Prediction Of Worldwide Energy Resources (POWER)** project. 
+
+*   **Source:** [NASA POWER Project](https://power.larc.nasa.gov/)
+*   **Licensing:** NASA POWER datasets are open-access and freely available for public and academic use. 
+*   **Attribution:** We acknowledge the NASA POWER team for providing the high-resolution meteorological parameters that serve as the foundational data for our agricultural drought risk predictions.
