@@ -1,4 +1,4 @@
-# Predictive Modeling of Agricultural Drought Risk using Machine Learning and Explainable AI (XAI)
+# RADAR: Regression-Based Agricultural Drought Analysis and Risk Prediction in Cavite Using Multi-Year NASA POWER Climatological Data, Random Forest, SHapley Additive exPlanations (SHAP), and Accumulated Local Effects (ALE)
 
 🚧 **WORK IN PROGRESS:** *This research project and its accompanying codebase are currently under active development. Methodologies, data pipelines, and predictive models are subject to ongoing refinement and validation.*
 
