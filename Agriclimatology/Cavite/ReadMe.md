@@ -84,3 +84,20 @@ The climatological data utilized in this repository is harvested from the **NASA
 *   **Source:** [NASA POWER Project](https://power.larc.nasa.gov/)
 *   **Licensing:** NASA POWER datasets are open-access and freely available for public and academic use. 
 *   **Attribution:** We acknowledge the NASA POWER team for providing the high-resolution meteorological parameters that serve as the foundational data for our agricultural drought risk predictions.
+
+## 📝 How to Cite
+If you utilize this codebase, methodology, or the unified predictive model in your own research or policy planning, please cite this repository:
+
+**APA Format:**
+> Padilla, E. R. M. P., Ladero, J. K. I., Abelieto, B. R. T., & De Los Santos, J. A. E. (2026). *RADAR: Regression-Based Agricultural Drought Analysis and Risk Prediction in Cavite*. GitHub. https://github.com/Ariestootl/machine_learning/tree/main/Agriclimatology/Cavite
+
+**BibTeX:**
+```bibtex
+@software{padilla2026radar,
+  author = {Padilla, Elle Rheign Maxeen P. and Ladero, Judiel Kyle I. and Abelieto, Bianca Rheizel T. and De Los Santos, Jose Aries E.},
+  title = {RADAR: Regression-Based Agricultural Drought Analysis and Risk Prediction in Cavite},
+  year = {2026},
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  howpublished = {\url{[https://github.com/Ariestootl/machine_learning/tree/main/Agriclimatology/Cavite](https://github.com/Ariestootl/machine_learning/tree/main/Agriclimatology/Cavite)}}
+}
