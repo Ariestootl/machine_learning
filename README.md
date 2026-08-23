@@ -71,7 +71,7 @@ If you utilize these architectures or educational notebooks in your research, st
 
 **BibTeX:**
 ```bibtex
-@software{delossantos_ds397_implementations,
+@software{delossantos_datascience,
   author = {De Los Santos, Jose Aries E.},
   title = {Advanced Computational Methods in Data Science Implementations},
   year = {2023--Present},
