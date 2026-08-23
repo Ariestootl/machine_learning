@@ -8,7 +8,7 @@ I am **Jose Aries E. De Los Santos**, a Data Science Ph.D. student and a Univers
 By constructing these complex architectures and models from scratch, I aim to explore and share a deep, mechanistic understanding of how state-of-the-art models function beneath the abstractions of standard frameworks, serving both advanced research and educational purposes.
 
 ## 🔬 Project Overview
-This repository contains a curated collection of machine learning algorithms and computational methods implemented as part of the DS397 course. The projects focus on both theoretical foundations and practical applications across various domains, including classification, regression, and dimensionality reduction.
+This repository contains a curated collection of machine learning algorithms and computational methods implemented. The projects focus on both theoretical foundations and practical applications across various domains, including classification, regression, and dimensionality reduction.
 
 The primary objective is to provide transparent, readable, and mathematically rigorous codebases for each method, utilizing standard datasets (e.g., Fisher Iris, MNIST, Taiwan Real Estate) to benchmark performance and demonstrate core data science principles.
 
