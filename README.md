@@ -67,13 +67,13 @@ This repository is designed for data science students, researchers, and practiti
 If you utilize these architectures or educational notebooks in your research, study, or projects, please consider citing this repository:
 
 **APA Format:**
-> De Los Santos, J. A. E. (2023--Present). *Advanced Computational Methods in Data Science  Implementations*. GitHub. https://github.com/Ariestootl/machine_learning.git
+> De Los Santos, J. A. E. (2023--Present). *Computational Methods in Data Science  Implementations*. GitHub. https://github.com/Ariestootl/machine_learning.git
 
 **BibTeX:**
 ```bibtex
 @software{delossantos_datascience,
   author = {De Los Santos, Jose Aries E.},
-  title = {Advanced Computational Methods in Data Science Implementations},
+  title = {Computational Methods in Data Science Implementations},
   year = {2023--Present},
   publisher = {GitHub},
   journal = {GitHub repository},
