@@ -1,4 +1,4 @@
-# Advanced Computational Methods in Data Science (DS397): Machine Learning Implementations
+# Computational Methods in Data Science and Machine Learning Implementations
 
 🚧 **STATUS:** *Active Portfolio Project. This repository is continuously updated with new machine learning implementations and computational experiments.*
 
